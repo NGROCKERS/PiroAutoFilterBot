@@ -75,7 +75,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/ritheshrkrm/PiroAutoFilterBot&branch=main&name=pirobot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/ngrocker/PiroAutoFilterBot&branch=main&name=pirobot)
 </details>
 
 <details><summary>Deploy on Railway</summary>
@@ -86,7 +86,7 @@
 
 <details><summary>Deploy To Render</summary>
 <br>
-<a href="https://render.com/deploy?repo=https://github/ritheshrkrm/PiroAutoFilterBot/tree/master">
+<a href="https://render.com/deploy?repo=https://github/ngrocker/PiroAutoFilterBot/tree/master">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -95,7 +95,7 @@
 <p>
 <pre>
 Use VPS Branch
-git clone https://github.com/ritheshrkrm/PiroAutoFilterBot
+git clone https://github.com/ngrocker/PiroAutoFilterBot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
